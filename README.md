@@ -15,7 +15,7 @@ The [figma file](https://www.figma.com/design/bXhdPm0KfCiqrzg4e9ZV82/PlanaryImpa
 
 The images that are used in the figma can be found in this repo, in the `public/images` folder.
 
-![Just a preview, see the figma for a better view](/docs/preview.png)
+[![](/docs/preview.png)](https://www.figma.com/design/bXhdPm0KfCiqrzg4e9ZV82/PlanaryImpact-design?m=auto&t=6RuiMSJAgkHdc0z2-6)
 
 ### Your assignment
 
