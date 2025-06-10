@@ -19,7 +19,7 @@ The images that are used in the figma can be found in this repo, in the `public/
 
 ### Your assignment
 
-1. Fork this repository to your own GitHub account.
+1. Fork this repository to your own GitHub account. Ensure the repository is **public**.
 2. Set up a project in the repo folder using Next.js using Tailwind CSS and Typescript.
 3. Translate the figma design to a live website to the best of your abilities. Ensure the site is responsive and works on all modern browsers. Test your work thoroughly
 4. Write clean, maintainable code and pay attention to detail. We won't give you more specific details because we want _you_ to impress us.
