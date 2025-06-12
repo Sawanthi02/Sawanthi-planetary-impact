@@ -25,6 +25,10 @@ const socialLinks = [
     }
 ];
 
+// global footer component that is used on every page of the website.
+// contains contact information, link to open mail and a link to the HHS website.
+// social media buttons are made with the SocialButton component, so they can be easily reused and expanded in the future.
+
 const Footer = () => {
   return (
     <footer className='bg-cyan-500 text-white text-2xl p-4 sm:p-8 flex flex-col'>

@@ -8,6 +8,7 @@ import infrastructuur from "../public/infrastructuur.jpg";
 import betaalplannen from "../public/betaalplannen.jpg";
 import news from "../public/news.jpg";
 
+// const made so it can be easily expanded with more items in the future, for each item a uspsItem will be made on the page.
 
 const Usps = [
   {
@@ -35,6 +36,9 @@ const Usps = [
     imgSrc: betaalplannen
   }
 ]
+
+// Main page component. 
+// First time using Tailwind and nodeJS.
 
 export default function Home() {
   return (

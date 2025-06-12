@@ -2,6 +2,8 @@ import React from 'react'
 import Image, { StaticImageData } from 'next/image';
 import Link from 'next/link';
 
+//interface UspsItemProps made to define the variables that the UspsItem component will receive.
+
 interface UspsItemProps {
     href: string;
     title: string;
@@ -10,6 +12,7 @@ interface UspsItemProps {
 }
 
 // Component to dispaly a story item. made like this to easily reuse and expand the main page once more stories are added.
+// holds a Link button that sends the user to a page with more information about the item.
 
 const UspsItem = ({href, title, paragraph, imgSrc} : UspsItemProps) => {
   return (
