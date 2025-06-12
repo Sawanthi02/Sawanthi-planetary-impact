@@ -1,36 +1,36 @@
-# Planetary Impact: A ND developer assignment
+This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
-Hi! If you are reading this you might be interested in doing an internship at New Designers. Great! At New Designers a lot of the work developers do will be to convert Figma designs into a real website or app. So that's what this assignment is about. You are to implement a one page website, whose design will be provided to you.
+## Getting Started
 
+First, run the development server:
 
-### Task details
+```bash
+npm run dev
+# or
+yarn dev
+# or
+pnpm dev
+# or
+bun dev
+```
 
-You will be setting up the project yourself, using the most recent version of **Next.js**, **Tailwind CSS** and **Typescript**. This is the tech stack we work with at New Designers. 
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
+You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
-### Resources
+This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
 
-The [figma file](https://www.figma.com/design/bXhdPm0KfCiqrzg4e9ZV82/PlanaryImpact-design?node-id=2-94&m=dev&t=p1zB6lWMDKIRz2br-1) contains the designs, both desktop and mobile.
+## Learn More
 
+To learn more about Next.js, take a look at the following resources:
 
-The images that are used in the figma can be found in this repo, in the `public/images` folder.
+- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
+- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-[![](/docs/preview.png)](https://www.figma.com/design/bXhdPm0KfCiqrzg4e9ZV82/PlanaryImpact-design?m=auto&t=6RuiMSJAgkHdc0z2-6)
+You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
 
-### Your assignment
+## Deploy on Vercel
 
-1. Fork this repository to your own GitHub account. Ensure the repository is **public**.
-2. Set up a project in the repo folder using Next.js using Tailwind CSS and Typescript.
-3. Translate the figma design to a live website to the best of your abilities. Ensure the site is responsive and works on all modern browsers. Test your work thoroughly
-4. Write clean, maintainable code and pay attention to detail. We won't give you more specific details because we want _you_ to impress us.
+The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-
-### Deliverables
-
-1. Commit your work and push the commits to your forked GitHub repository.
-2. Deploy the site to Netlify.
-3. Provide us with the URL of your forked GitHub repository and your Netlify deployment
-
-Good luck! We're excited to see what you come up with!
-
-If you encounter any problems or have any questions during this assignment, please don't hesitate to reach out to [Wouter van den Heuvel](w.vandenheuvel@hhs.nl). We're here to help!
+Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
