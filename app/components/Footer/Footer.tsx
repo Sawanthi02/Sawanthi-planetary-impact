@@ -27,7 +27,7 @@ const socialLinks = [
 
 const Footer = () => {
   return (
-    <footer className='bg-cyan-500 text-white text-2xl p-16 flex flex-col'>
+    <footer className='bg-cyan-500 text-white text-2xl p-4 sm:p-8 flex flex-col'>
         <div className='pb-8'>
             <h3 className='font-bold'>Contact:</h3>
             <p>dr. Nova Sterling</p>
