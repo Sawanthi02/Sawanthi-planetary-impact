@@ -48,7 +48,7 @@ export default function Home() {
            <Image src={hero} alt="Hero top banner displaying the surface of Mars" fill className="object-cover"/>
         </div>
         <div className="flex flex-col items-center text-center text-gray-500 p-8">
-          <h1 className="font-sans text-4xl lg:text-6xl p-4 ">&quot;Maak werk van Mars&quot;</h1>
+          <h1 className="font-sans text-2xl lg:text-6xl p-4 ">&quot;Maak werk van Mars&quot;</h1>
           <p className="font-sans text-lg lg:text-2xl">Mars is de toekomst. Planetary Impact helpt u met het zoeken naar een geschikte plek voor uw kolonie.</p>
         </div>
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-4 p-8">
